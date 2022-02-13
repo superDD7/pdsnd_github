@@ -11,8 +11,8 @@ This bikeshare.py can analyse specific data about bikeshare company
 
 ### Files used
 chicago.csv
-washington
-new_york_city
+washington.csv
+new_york_city.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
